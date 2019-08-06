@@ -1,0 +1,13 @@
+{
+	"itemName" : "mechhornbrbrdeng",
+	"price" : 12500,
+	"maxStack" : 1,
+	"rarity" : "Legendary",
+	"category" : "mechChip",
+	"inventoryIcon" : "mechhornbrbrdeng.png",
+	"description" : "Brbr deng, brbr deng."
+	"shortdescription" : "BrbrDeng Horn"
+	"itemTags" : [ ],
+	
+	"mechPart" : ["horn", "brbrdeng"]
+}
